@@ -22,12 +22,11 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 # 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanskruti-0205&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api?username=Sanskruti-0205\&theme=shadow_blue\&hide_border=false\&include_all_commits=false\&count_private=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sanskruti-0205&theme=tokyonight)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Sanskruti-0205\&theme=shadow_blue\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskruti-0205\&theme=shadow_blue\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskruti-0205&layout=compact&theme=tokyonight)
 
 # 🚀 Projects:
 
